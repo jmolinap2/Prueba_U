@@ -9,3 +9,5 @@ En Admin.py registrar e importar modelos
 Crear y realizar la migraciones
 Createsuperuser
 Urls y views de academico
+Agregar url del proyecto
+Agregar los templates
